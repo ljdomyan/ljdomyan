@@ -1,5 +1,5 @@
 # 👋 Hello, my name is Lakshya
-🎓 Electrical and Computer Engineering @University of Texas at Austin<br>🔭 Technical Focus in Data Science & Information Processing<br>🌱 Currently working on Data Science Certification from Google<br>
+🎓 Electrical and Computer Engineering @The University of Texas at Austin<br>🔭 Technical Focus in Data Science & Information Processing<br>🌱 Currently working on AWS Certification<br>
 
 
 ## 🌐 Socials:
